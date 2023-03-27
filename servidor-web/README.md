@@ -1,4 +1,4 @@
-## Neste módulo do curso, nos foi apresentado o IAC (Infrastructure as a Code).Com a instrução do Prof. Denilson Bonatti, criamos um script que gera um servidor web Apache automaticamente.
+## Neste módulo do curso, nos foi apresentado o IaC (Infrastructure as a Code).Com a instrução do Prof. Denilson Bonatti, criamos um script que gera um servidor web Apache automaticamente.
 
 **Como desafio, nos foi proposto que nosso código realizasse as seguintes tarefas:**
 
