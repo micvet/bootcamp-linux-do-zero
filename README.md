@@ -1,6 +1,6 @@
 # Bootcamp de Linux do Zero 
 
-Este repositório é dedicado ao armazenamento e organização dos materiais e recursos relacionados ao bootcamp 9Linux do Zero](https://web.dio.me/track/linux-do-zero?tab=about), da DIO, onde exploramos os fundamentos do sistema operacional Linux, práticas de infraestrutura como código (IAC), Docker, gerenciamento de arquivos e usuários, entre outros tópicos.
+Este repositório é dedicado ao armazenamento e organização dos materiais e recursos relacionados ao bootcamp [Linux do Zero](https://web.dio.me/track/linux-do-zero?tab=about), da DIO, onde exploramos os fundamentos do sistema operacional Linux, práticas de infraestrutura como código (IAC), Docker, gerenciamento de arquivos e usuários, entre outros tópicos.
 
 ## Sobre o Bootcamp (descrição fornecida pela DIO):
 Este programa é para profissionais de tecnologia que querem aperfeiçoar seus conhecimentos no sistema operacional Linux em uma trilha imersiva, rápida e eficiente. O Linux do Zero possui apenas 44 horas, que você pode finalizar em poucos dias, de atividades 100% voltadas para os desafios do mercado de trabalho. Nesse programa você vai aprender a principal vocação do sistema operacional Linux, seus comandos fundamentais e como gerenciar serviços de um servidor.
