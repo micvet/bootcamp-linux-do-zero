@@ -1,4 +1,4 @@
-## Neste módulo do curso, nos foi apresentado o IaC (Infrastructure as a Code). Com a instrução do Prof. Denilson Bonatti, desenvolvemos um arquivo de Bash Script IaC, que cumpre as seguintes tarefas:
+## Neste módulo do curso, nos foi apresentado o IaC (Infrastructure as a Code). Com a instrução do Prof. Denilson Bonatti, desenvolvemos um [arquivo de Bash Script IaC](https://github.com/micvet/bootcamp-linux-do-zero/blob/main/criar-users/criar-user.sh), que cumpre as seguintes tarefas:
 
 * Criar os diretórios /publico, /adm, /ven e /sec;
 * Criar os grupos GRP_VEN, GRP_SEC e GRP_ADM; 
